@@ -1,4 +1,4 @@
-# 🖨️ Impression 3D Open Source — RatRig VCore-4
+# 🖨️ Impression 3D Open Source — RatRig VCore-3
 
 > **Travaux Pratiques — Insertion Professionnelle | Polytech**  
 > Une série de 4 séances pour maîtriser la chaîne complète d'impression 3D, de la découverte du matériel à votre premier print.
